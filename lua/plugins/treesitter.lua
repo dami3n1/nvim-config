@@ -22,6 +22,8 @@ return {
 		"java",
 		"javascript",
 		"python",
+		"markdown",
+		"markdown_inline",
 	    }
 	})
     end
